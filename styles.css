@@ -1,0 +1,48 @@
+body {
+    margin: 20px;
+  
+    font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+   
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #fcf6bd;
+    color: #2b2839;
+    border-radius: 15px;
+    box-shadow: -10px 10px 6px #b5e48c;
+    
+        
+    /*
+    Challenge:
+    Find a color palette you like on Coolors.co
+    and use it in your business card.
+     */
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+
+/*
+Stretch goals:
+Find other ways you can personalize 
+the design of your business card, e.g.:
+- change the border(s)
+- add border radius
+- shuffle the layout
+- shadows        🤯
+- hover effects  🤯🤯
+- animations     🤯🤯🤯
+*/
+
